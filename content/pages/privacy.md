@@ -1,51 +1,118 @@
 ---
-title: "Privacy"
+title: "개인정보"
 slug: privacy
 original_url: https://jonathanmccallum.com/privacy/
 ---
 
-# Privacy
+# 개인정보
 
-This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
+이 사이트는 스페인 게타리아에 사는 Jonathan McCallum이 운영해요. 작은 개인 사이트예요. 글과, 그 글에서 답하는 채팅이 있어요. 여기에는 만들 계정도, 추적도, 광고도, 파는 것도 없어요. 세계 어디에 계시든 모든 방문자에게 유럽 개인정보 보호법(GDPR)을 적용해요.
 
-이 페이지에 대한 것이나 여러분의 개인정보에 대해 물어볼 것이 있으면, Jonathan에게 <a href="#" data-contact-email data-contact-email-text>메일 보내기</a>로 메일을 보내 주세요. [Instagram](https://www.instagram.com/jonamccallum)이나 [Threads](https://www.threads.com/@jonamccallum)로 메시지를 보낼 수도 있어요.
+이 페이지에 대한 것이나 여러분의 개인정보에 대해 물어볼 것이 있으면, Jonathan에게 <a href="#" data-contact-email data-contact-email-text>이메일 보내기</a>로 메일을 보내 주세요. [Instagram](https://www.instagram.com/jonamccallum)이나 [Threads](https://www.threads.com/@jonamccallum)로 메시지를 보낼 수도 있어요.
 
-## The chat: "Interact with Jonathan's writing"
+## 여러분의 데이터를 책임지는 사람
 
-When you type a question, it is sent to Cloudflare — the company that hosts this site — so its AI can look through Jonathan's published writing and draft an answer. The answer comes only from his writing, with a link to the post it came from.
+Jonathan McCallum이 이 사이트의 데이터 관리자예요. 무엇을 수집하고 왜 수집하는지 결정하는 사람이라는 뜻이에요. 회사가 아니고, 데이터 보호 책임자도 없어요. 이런 작은 개인 사이트에는 필요 없어요.
 
-- The site does not store your questions.
-- The chat is not Jonathan. It is an AI, and it can get things wrong.
-- Cloudflare is a US company, so your question may be processed outside Europe. That transfer is part of running the chat.
+## 무엇을 수집하고, 왜 수집하나요
 
-## Leave a note
+### 채팅: "Jonathan의 글과 대화하기"
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. 답장을 원하시면 <a href="#" data-contact-email data-contact-email-text>메일 보내기</a>로 메일을 보내 주시거나, 소셜 미디어로 메시지를 보내 주세요.
+질문을 입력하면, 그 질문은 이 사이트를 호스팅하는 회사인 Cloudflare로 보내져요. Cloudflare의 AI가 Jonathan이 이미 발표한 글을 살펴보고 답을 만들어요. 답은 오직 그의 글에서만 나오고, 출처 글의 링크가 함께 있어요.
 
-## What is not collected
+- 질문 자체는 저장되지 않아요. 일방향 코드(해시)로 바뀌어서, 누군가 같은 질문을 다시 하면 저장된 답을 찾을 수 있게 해요. 좋은 답은 7일 동안 보관했다가 삭제해요.
+- 채팅은 Jonathan이 아니에요. AI이고, 틀릴 수 있어요.
+- 채팅의 법적 근거는 정당한 이익이에요. 발표한 글에서 질문에 답하는 작은 사이트를 운영하는 것이죠.
 
-- No cookies, no tracking, no analytics, no advertising.
-- Search runs entirely on your own device.
-- A YouTube video only loads if you tap play on it.
-- The site never asks for your email address or social media details. If you ever see a form here asking for them, it is not part of this site — please don't fill it in.
+### 로그인
 
-## Your rights under European law (GDPR)
+Google, Instagram, LINE, 이메일로 로그인할 수 있어요. 그러면 이야기나 제안, 댓글이 정말 여러분에게서 온 것인지 Jonathan이 알 수 있어요. 로그인은 여러분이 누구인지 증명할 뿐이에요. 여러분을 대신해 글을 올리거나, 메시지를 읽거나, 사적인 것을 볼 수는 없어요. 로그인은 여러분과 Google, Instagram, LINE, 이메일 제공자 사이에 머물러요. 이 사이트는 여러분의 비밀번호를 절대 보지 않아요.
 
-This site follows the EU's General Data Protection Regulation (GDPR) as its standard, wherever you are in the world.
+각 로그인이 사이트와 공유하는 것:
 
-- You can ask what personal data, if any, this site holds about you.
-- You can ask for it to be corrected or deleted, or for its use to be restricted.
-- You can object to its use, and you can complain to your local data protection authority. Jonathan lives in Spain, where the authority is the AEPD (Agencia Española de Protección de Datos).
-- Because the site stores nothing that identifies you — no accounts, no emails, no tracking — there is usually nothing to show or delete. Ask anyway and he will answer.
+- Google: 이름과 인증된 이메일 주소.
+- Instagram: 사용자 이름과 프로필 링크.
+- LINE: LINE에서 보여주는 이름.
+- 이메일: 이메일 주소. 6자리 코드로 확인해요. 코드는 한 번만 쓸 수 있고 10분 뒤에 만료돼요.
 
-The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
+로그인 정보는 Jonathan에게만 보여요. 여러분이 진짜인지 확인하고 답장하기 위해서예요. 사이트에 공개적으로 표시되는 일은 절대 없어요. 법적 근거는 여러분의 동의예요. 로그인하는 것은 여러분의 선택이에요.
 
-## Children
+### 여러분의 이야기 나누기 (인터뷰)
+
+이야기를 나누면, 사이트는 여러분의 이름, 소셜 프로필 링크, 세 가지 질문에 대한 답, 그리고 어떤 로그인을 썼는지와 프로필이 인증됐는지에 대한 기록을 보관해요. Jonathan이 먼저 확인하고 여러분과 이야기하기 전에는 아무것도 게시되지 않아요. 법적 근거는 여러분의 동의예요. 보내는 것은 여러분의 선택이고, 허락 상자에 표시해요.
+
+### 아티스트 추천하기
+
+아티스트를 추천하면, 사이트는 그 아티스트의 이름과 프로필 링크, Jonathan이 그 아티스트와 관련해 무엇을 해 주길 원하는지, 왜 그 사람인지, 그리고 여러분이 알려 주면 여러분의 이름과 링크를 보관해요. 로그인은 필요 없어요. 법적 근거는 여러분의 동의예요.
+
+### 메모 남기기
+
+메모는 익명이에요. 사이트는 이름도, 이메일도, 소셜 미디어 계정도 묻지 않아요. 메모에 개인정보를 적지 말아 주세요. 메모는 Jonathan이 읽고 삭제할 때까지 보관해요. 답장을 원하시면 <a href="#" data-contact-email data-contact-email-text>이메일 보내기</a>로 메일을 보내 주시거나, 소셜 미디어로 메시지를 보내 주세요. 법적 근거는 여러분의 동의예요. 메모를 남기는 것은 여러분의 선택이에요.
+
+### 댓글
+
+글에 댓글을 달면, 사이트는 여러분의 이름, 댓글, 그리고 추가하면 소셜 프로필이나 동영상 링크를 보관해요. 댓글은 표시되기 전에 Jonathan이 확인해요. 법적 근거는 여러분의 동의예요.
+
+### 검색
+
+검색은 전적으로 여러분의 기기 안에서 이뤄져요. 검색한 내용이 어디로도 보내지지 않아요.
+
+### 동영상
+
+YouTube 동영상은 여러분이 눌러서 재생할 때만 불러와요. 그전까지는 동영상이 불러와지지 않고 YouTube로 아무것도 보내지지 않아요.
+
+## 쿠키
+
+이 사이트는 쿠키를 아주 조금만 써요. 여러분을 추적하는 것은 하나도 없어요.
+
+| 쿠키 또는 저장소 | 하는 일 | 보관 기간 |
+|---|---|---|
+| `interview_session` | 이야기를 나누거나 댓글을 다는 동안 로그인 상태를 유지해요. | 1시간 |
+| `theme` (여러분의 기기에 저장) | 밝은 테마를 골랐는지 어두운 테마를 골랐는지 기억해요. | 바꿀 때까지 |
+| `cookie-consent` (여러분의 기기에 저장) | 쿠키를 수락했는지 거부했는지 기억해서, 배너가 다시 묻지 않게 해요. | 바꿀 때까지 |
+| Google 로그인 | 쿠키를 수락한 경우에만: Google의 로그인 버튼이 Google에서 불러와지고, Google이 자체 쿠키를 설정할 수 있어요. [Google 개인정보처리방침](https://policies.google.com/privacy)을 참고하세요. | Google이 정해요 |
+
+처음 방문하면 쿠키 배너가 보여요. 수락과 거부, 두 버튼이 나란히 있어요. 둘 다 같은 일을 해요. 속임수는 없어요. 거부해도 사이트는 그대로 써요. 모든 글을 읽을 수 있고, 채팅을 쓸 수 있고, Instagram, LINE, 이메일로 로그인할 수 있어요. Google 로그인 버튼만 꺼져 있어요. 불러오려면 Google의 쿠키가 필요하기 때문이에요. 마음이 바뀌면 어느 페이지 아래쪽에 있는 "쿠키 설정" 링크에서 언제든 바꿀 수 있어요.
+
+## 여러분의 데이터가 있는 곳
+
+사이트는 미국의 회사인 Cloudflare가 호스팅해요. 페이지, 채팅, 로그인, 저장된 메모는 미국과 유럽에 있는 Cloudflare 네트워크에 있어요. 이메일 로그인 코드는 역시 미국의 회사인 Resend가 보내요. 이메일은 아일랜드에서 보내지지만, Resend는 이메일과 발송 기록을 미국에 30일 동안 저장해요. 새 메모, 이야기, 제안에 대해 Jonathan이 받는 이메일은 그 자신의 Gmail 계정으로 가요.
+
+유럽 밖으로의 전송은 Cloudflare와 Resend의 데이터 처리 계약에 있는 표준 계약 조항과, 두 회사가 참여하는 EU–US 데이터 프라이버시 프레임워크로 보장돼요.
+
+## 보관 기간
+
+- 로그인 세션: 1시간. 로그인 코드: 10분.
+- 채팅 답: 7일, 그 뒤 삭제해요.
+- 메모, 이야기, 제안, 댓글: Jonathan이 처리하고 삭제할 때까지 보관해요.
+- Resend의 로그인 코드: Resend가 30일 동안 보관해요.
+
+## 판매와 광고
+
+이 사이트는 여러분의 개인정보를 팔지 않아요. 광고를 위해 여러분의 정보를 공유하지 않고, 이 사이트에는 광고가 없어요. 여러분의 데이터를 다루는 다른 곳은 위에 나온 서비스(Cloudflare, Resend, Gmail)뿐이고, 사이트를 운영하는 데만 처리해요.
+
+## 유럽법(GDPR)에 따른 여러분의 권리
+
+이 사이트는 세계 어디에 계시든 EU 일반 데이터 보호 규정(GDPR)을 기준으로 삼아요.
+
+- 이 사이트가 여러분에 대해 어떤 개인정보를, 있다면, 가지고 있는지 물어볼 수 있어요.
+- 정정이나 삭제를 요청하거나, 사용을 제한해 달라고 요청할 수 있어요.
+- 사본을 요청할 수 있고, 사용에 반대할 수도 있어요.
+- 동의는 언제든 철회할 수 있어요. 예를 들어 로그아웃하거나, 보낸 것을 삭제해 달라고 Jonathan에게 요청하는 식으로요.
+- 해당 지역 데이터 보호 기관에 불만을 제기할 수 있어요. Jonathan은 스페인에 살아요. 스페인의 기관은 AEPD예요(Agencia Española de Protección de Datos, aepd.es).
+
+사이트가 저장하는 것이 워낙 적어서, 보여 주거나 삭제할 것이 보통은 없어요. 그래도 물어봐 주세요. 답해 드릴게요. 물어보려면 Jonathan에게 <a href="#" data-contact-email data-contact-email-text>이메일 보내기</a>로 메일을 보내 주시거나, [Instagram](https://www.instagram.com/jonamccallum)이나 [Threads](https://www.threads.com/@jonamccallum)로 메시지를 보내 주세요.
+
+## 어린이
 
 이 사이트는 18세 미만인 분들을 위한 곳이 아니에요. 예수님에 대한 믿음을 다루고 있고, 그건 종교적인 내용이라 어른들을 위해 쓰였어요. 18세 미만이시면, 이곳에서 개인정보를 공유하지 마시고, Jonathan에게 연락하지 말아 주세요.
 
 스페인에서는 법에 따라 14세 미만 어린이는 온라인으로 개인정보를 공유하기 전에 부모님이나 보호자의 동의를 받아야 해요. 이 사이트의 자체 규칙은 그보다 더 엄격해요. 18세 미만이면 이 사이트는 여러분을 위한 곳이 아니에요.
 
-## Changes
+## 법적 고지
 
-This page will be updated if anything about the site changes. Last updated 21 November 2026.
+이곳은 개인 웹사이트예요. 여기 있는 모든 것은 Jonathan 자신의 글이고, 그 자신의 생각이에요. 어떤 종류의 전문적인 조언도 아니에요. 의료, 법률, 금융, 그 어떤 것도 아니에요. 채팅은 그이 발표한 글에서만 답하고, 틀릴 수 있어요. 이 사이트에 틀리거나 오래된 것이 있으면 알려 주세요. 바로잡을게요.
+
+## 변경
+
+사이트에 대해 바뀌는 것이 있으면 이 페이지를 업데이트할게요. 마지막 업데이트: 2026년 11월 23일.

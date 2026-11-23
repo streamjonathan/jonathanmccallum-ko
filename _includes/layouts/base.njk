@@ -111,8 +111,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=14" as="style">
-<link rel="stylesheet" href="/css/style.css?v=13">
+<link rel="preload" href="/css/style.css?v=15" as="style">
+<link rel="stylesheet" href="/css/style.css?v=15">
 </head>
 <body>
 <a class="skip-link" href="#main">콘텐츠로 건너뛰기</a>
@@ -120,10 +120,14 @@
   <a class="site-header__title" href="/">Jonathan McCallum</a>
   <button id="theme-toggle" type="button">다크</button>
 </header>
+<nav class="return-home-bar" aria-label="English version">
+  <a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="ko">· Jonathan에게 돌아가기</span></a>
+</nav>
 <main id="main">
 {{ content | safe }}
 </main>
 <footer class="site-footer">
+  <p><a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="ko">· Jonathan에게 돌아가기</span></a></p>
   <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">검색</a> · <a href="/privacy/">개인정보</a> · <a href="#" id="cookie-settings">쿠키 설정</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>인사 건네기 — <a href="#" data-contact-email data-contact-email-text>메일 보내기</a></p>
@@ -132,6 +136,8 @@
 <script src="/js/main.js?v=8" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
 <script src="/js/consent.js?v=1" defer></script>
+<script src="/js/suggest.js?v=1" defer></script>
+<script src="/js/interview.js?v=1" defer></script>
 <div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="쿠키" hidden>
   <p><strong>쿠키.</strong> 이 사이트는 단순해요. 여러분의 기기에 밝은 테마인지 어두운 테마인지 기억할 뿐이에요. 여기서 여러분을 추적하는 것은 아무것도 없어요. <a href="/privacy/">개인정보 보호 페이지 읽기</a>.</p>
   <p class="cookie-banner__buttons">

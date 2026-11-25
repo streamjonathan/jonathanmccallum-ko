@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # 개인정보
 
-이 사이트는 스페인 게타리아에 사는 Jonathan McCallum이 운영해요. 작은 개인 사이트예요. 글과, 그 글에서 답하는 채팅이 있어요. 여기에는 만들 계정도, 추적도, 광고도, 파는 것도 없어요. 세계 어디에 계시든 모든 방문자에게 유럽 개인정보 보호법(GDPR)을 적용해요.
+이 사이트는 바스크 지방에 사는 Jonathan McCallum이 운영해요. 작은 개인 사이트예요. 글과, 그 글에서 답하는 채팅이 있어요. 여기에는 만들 계정도, 추적도, 광고도, 파는 것도 없어요. 세계 어디에 계시든 모든 방문자에게 유럽 개인정보 보호법(GDPR)을 적용해요.
 
 이 페이지에 대한 것이나 여러분의 개인정보에 대해 물어볼 것이 있으면, Jonathan에게 <a href="#" data-contact-email data-contact-email-text>이메일 보내기</a>로 메일을 보내 주세요. [Instagram](https://www.instagram.com/jonamccallum)이나 [Threads](https://www.threads.com/@jonamccallum)로 메시지를 보낼 수도 있어요.
 

@@ -22,6 +22,7 @@ eleventyExcludeFromCollections: true
 
 <section class="featured" data-fade aria-labelledby="featured-heading">
   <h2 id="featured-heading">최신 글</h2>
+  <p class="featured-row__hint">새 글 더 보기 — 다음 글로 넘기세요 <span aria-hidden="true">→</span></p>
   <ul class="featured-row" data-auto-carousel>
   {% for post in collections.publishedPosts | reverse %}
     {% if loop.index <= 10 %}
@@ -56,6 +57,7 @@ eleventyExcludeFromCollections: true
 <hr class="rule-gold">
 <section class="watch-section" data-fade aria-labelledby="watch-heading">
   <h2 id="watch-heading">영상</h2>
+  <p class="row-hint">영상 더 보기 — 다음 영상으로 넘기세요 <span aria-hidden="true">→</span></p>
   <ul class="watch-row">
   {% set shown = [] %}
   {% for post in collections.publishedPosts | reverse %}
